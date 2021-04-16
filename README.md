@@ -1,2 +1,2 @@
 # AutoGmail
-Auto Email using python
+Hi!this is a small email automated software 
